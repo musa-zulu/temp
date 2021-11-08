@@ -1,0 +1,90 @@
+AccountManagement/*/obj/
+AccountManagement/*/bin/
+AccountManagement/packages/
+*.suo
+AccountManagement/buildreports/
+AccountManagement/node_modules/
+AccountManagement/test-results.xml
+*.user
+AccountManagement/bin/
+nunit-result.xml
+*.swp
+AccountManagement/coverage
+buildreports
+AccountManagement/.vs/config/applicationhost.config
+AccountManagement/OpenCover/
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+client/dist
+client/tmp
+client/out-tsc
+
+# dependencies
+client/node_modules
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+client/.idea
+client/.project
+client/.classpath
+client/.c9/
+client/*.launch
+client/.settings/
+client/*.sublime-workspace
+
+# IDE - VSCode
+client/.vscode/*
+client/!.vscode/settings.json
+client/!.vscode/tasks.json
+client/!.vscode/launch.json
+client/!.vscode/extensions.json
+client/.history/*
+
+# misc
+client/.sass-cache
+client/connect.lock
+client/coverage
+client/libpeerconnection.log
+client/npm-debug.log
+client/yarn-error.log
+client/testem.log
+client/typings
+
+# System Files
+client/.DS_Store
+client/Thumbs.db
+
+
+
+
+AccountManagement/.vs/Customer-Listing/v16/TestStore/0/000.testlog
+
+AccountManagement/.vs/Customer-Listing/v16/TestStore/0/testlog.manifest
+
+AccountManagement/.vs/Customer-Listing/config/applicationhost.config
+
+AccountManagement/.vs/Customer-Listing/v16/TestStore/0/001.testlog
+
+*.testlog
+
+AccountManagement/Customer-Listing.Tests/obj/Debug/net5.0/
+
+*.props
+
+*.targets
+
+*.cache
+
+*.v2
+
+client/.angular/cache/angular-webpack/dff39aaed76e1af7ed7ea953dacd503bc43df2b8/
+
+client/.angular/cache/babel-webpack/
+
+*.manifest
